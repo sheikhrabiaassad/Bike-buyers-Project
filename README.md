@@ -24,3 +24,15 @@ This is a data analysis project that examines different reasons that affect a bi
 
     < 31 is Adolescent , >=31 & < 51 is Middle Aged , >51 is Old.
 
+    ## Lessons Learned
+
+					
+	There are a few factors that impact the no.of bikes purchased.																			
+	1. Number of men who purchase bikes is more females because the average salary of men is greater than females.																		
+	2. Commute distance impacts the sales of bikes. The number of bikes purchased by customers with daily commutes of 0-1 mile is greater than customers with commute distances greater than 10 miles.																			
+	3. Bikes purchased by middle-aged people (31-54) is greater than then bikes purchased by adolescent (<31) and old(>54).																			
+	4. Family structure that is no. of children in a family impacts the purchase of a bike. Families with 0-1 children have the highest no. of purchased bikes, on the other hand, no. of purchased bikes decreases with families having 4-5 children.  																			
+	5. Owning a car has an impact on bike buyers, more bikes are purchased by people with 0-1 car 																			
+	6. More bikes are purchased by people with salaries ranging between 40 to 70 thousand rupees. 																			
+	7. Marital status has an impact on bike buyers, more bikes are bought by single people than married.												
+
